@@ -18,3 +18,14 @@
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=natxn&" alt = "natxn" /> </p>
 -->
 
+ <p align = "center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src = "https://readme-typing-svg.herokuapp.com?color=%23F7B515&lines=Always+learning+ novas + coisas; Engenharia + aluno "> </a>
+</p>
+
+ ## <img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = "50"> GitHub Stats
+ <div>
+  <a href="https://github.com/Natxn">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Natxn&show_icons=true&theme=great-gatsby=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Natxn&layout=compact&langs_count=7&theme=great-gatsby" />
+    
+ 
