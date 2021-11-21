@@ -1,7 +1,7 @@
 <h1 align = "center"> Oi 👋, eu sou o Natan </h1>
 <h3 align = "center"> Apaixonado por tecnologia e conhecimento </h3>
 
-- 🔭 Atualmente sou aluno ** da Generation Brasil **
+- 🔭 Atualmente sou aluno da Generation Brasil 
 
 - 📫 Fale comigo **natanlopes016@gmail.com**
 
