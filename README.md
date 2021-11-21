@@ -6,6 +6,10 @@
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/natan-lopes-34339921b/](https://www.linkedin.com/in/ natan-lopes-34339921b /)
 - ⚡ Curiosidades sobre mim ** Amo esportes e sou bom em quase todos, amo games e sou ruim em quase todos.😄🤷🏾‍♂️ **
 
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
 <h3 align = "left"> Conecte-se a mim : </h3>
 <p align = "left">
 </p>
