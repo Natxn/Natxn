@@ -28,5 +28,6 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Natxn&show_icons=true&theme=dark=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Natxn&layout=compact&langs_count=7&theme=great-gatsby" />
     
+    ![Snake animation](https://github.com/Natxn/Natxn/blob/output/github-contribution-grid-snake.svg)
     
  
