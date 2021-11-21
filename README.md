@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou aluno da Generation Brasil 
 - 📫 Fale comigo **natanlopes016@gmail.com**
-- 📄 Saiba mais sobre mim (https://www.linkedin.com/in/ natan-lopes-34339921b /)
+- 📄 Saiba mais sobre mim [https://www.linkedin.com/in/natan-lopes-34339921b/]
 - ⚡ Curiosidades sobre mim  Amo esportes e sou bom em quase todos, amo games e sou ruim em quase todos.😄🤷🏾‍♂️ **
 
 <h3 align="left">Languages and Tools:</h3>
