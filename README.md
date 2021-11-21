@@ -25,7 +25,8 @@
  ## <img src = "https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width = "50"> GitHub Stats
  <div>
   <a href="https://github.com/Natxn">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Natxn&show_icons=true&theme=great-gatsby=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Natxn&show_icons=true&theme=dark=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Natxn&layout=compact&langs_count=7&theme=great-gatsby" />
+    
     
  
