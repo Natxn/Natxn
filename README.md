@@ -12,11 +12,6 @@
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=natxn&" alt = "natxn" /> </p>
 -->
 
-    
-      
-      Painel Git
-  
-  
   <a href="https://github.com/Natxn">
   <img height = "180em" align = "center" src = "https://github-readme-stats.vercel.app/api?username=Natxn&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height = "180em" align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Natxn&layout=compact&langs_count=7&theme=react" />
